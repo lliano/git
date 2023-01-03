@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello git!");
         System.out.println("hello git!");
         System.out.println("hello git333!");
+        //hot fox 分支不冲突合并
     }
 }
