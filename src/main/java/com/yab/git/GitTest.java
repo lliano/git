@@ -18,5 +18,8 @@ public class GitTest {
         System.out.println("branch test");
 
         System.out.println("push github !");
+        
+        System.out.println("pull github !");
+        
     }
 }
